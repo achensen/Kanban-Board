@@ -20,7 +20,14 @@ This project is licensed with MIT
 npm i
 
 ## Usage
+The main page will load, click on the _login_ 
+![Main Page](/client/assets/images/MainPage.png)
 
+Next you will login using a username and password that is already saved in the Mongo Database, to view the application use username: JollyGuru and pw: password
+![Login Page](/client/assets/images/Login.png)
+
+Now you are is the main part of the site and can edit or update the tickets. Most of this fuctionaility was provided in the starter code, I just completed the code including route information.
+![Ticket Page](/client/assets/images/TicketPage.png)
 
 ## Deployed Site 
 [Render Deployment](https://kanban-board-2q9a.onrender.com)
