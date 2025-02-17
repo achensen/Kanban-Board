@@ -1,5 +1,6 @@
-# Weather Dashboard
+# Kanban Board
   ![license badge](https://img.shields.io/badge/license-MIT-blue)
+
 ## Table of Contents
 * [Description](#description)
 * [License](#license)
@@ -11,7 +12,7 @@
 * [Additional Notes](#additional-notes)
 
 ## Description
-
+Adding authentication to an existing Kanban board. 
 
 ## License
 This project is licensed with MIT
@@ -39,4 +40,4 @@ EDX Starter code, myself, with some tutoring assistance (see additional notes)
 My GitHub account is [GitHub Account Link](https://github.com/achensen)
 
 ## Additional Notes 
- The initial code for this project was provided by EDX Engineering Services Company to complete an assignment for a Full Stack Web Development Course. My contribution was to complete the code to ensure it had full functionality similar to the mock up that was provided. I did receive tutoring assistance to help with my understanding of this assignment, specifically with setting up middleware. 
+ The initial code for this project was provided by EDX Engineering Services Company to complete an assignment for a Full Stack Web Development Course. My contribution was to complete the code to ensure it had full functionality similar to the mock up that was provided. I did receive tutoring assistance to help with my understanding of this assignment, specifically with the authentication. The Kanban board application was already created. I completed the UI for the login page, added authentication with JWT to the server API, and then deployed the entire application to Render.
